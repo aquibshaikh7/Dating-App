@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://www.winklix.com/blog/wp-content/uploads/2017/11/OnlineDating1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ececec;
+  font-family: "Roboto", sans-serif;
+}
+
+.box {
+  background: transparent;
+  background-repeat: no-repeat;
+  color: #e30d17;
+}
